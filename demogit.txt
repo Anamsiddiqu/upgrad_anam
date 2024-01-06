@@ -1,0 +1,3 @@
+git config --global user.name "Anamsiddiqu"
+git config --global user.email "anamsiddiqui5600@gmail.com"
+git config --global color.ui auto
