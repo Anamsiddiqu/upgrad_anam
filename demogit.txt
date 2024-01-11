@@ -1,0 +1,35 @@
+1 :- What is version vontrol?
+Version control is a management of information like documents, projects code ,etc. it can track
+collaborative changes to your project. So that Developers is aware of the recent changes in the 
+project code and can change and access the recent version of the project code . also can view all the 
+past versions of code.
+
+2 :- What is centralized versiom control?
+It works like client-server model. One centralized server and a localized repository file system that 
+is accessible by number of clients. advantages of centralized contol version system are model and 
+simplicity and ease of use. example is subversion like google docs, etc. subversion is version control
+system based on a centralized version control system. In subversion there is only one repository file 
+system usually stored on network server . to work on projects we have to connect to central file system 
+through network connection. In subversion you can not work on project without network connection.
+
+3 :- what is distributed version control?
+It is peer-to-peer type of system. in this system all developers have their local file system and 
+cahnges between file file system are implemented locally on their machines . advantages are faster 
+access, ability to work offline does not rely on a single location for backups. example are github and 
+merculiar.
+
+4 :- what is git?
+Git is open-sourced and you can open public or private file system which is accessible by your project 
+team. git is invented by linus torvalds. he is also the father of linux operating system and he stills 
+maintains linux operating system kernall. git is faster than merculiar for network operation such as 
+downloading and uploading project files to the server. git appraoches to branches are more powerfull 
+than merculiar. it is more powerfull for larger projects. it is widely used popular version contol 
+system in use today. example are Amazon, microosoft, have adopted git for their many projects.
+
+5 :- what is github?
+Git is tool to manage the change of history of code, whereas github is web-based git file-hosting service
+which enables us to showcase or share our project and file to others. to share the projects and file 
+on github we need container in which we can transfer all files. thet container is called repository.
+a repository is a directory which will contain our project work. in the process of sending files from 
+our local machines to github files will go through three stages internally which are modified, staged,
+and commited. 
