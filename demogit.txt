@@ -32,4 +32,4 @@ which enables us to showcase or share our project and file to others. to share t
 on github we need container in which we can transfer all files. thet container is called repository.
 a repository is a directory which will contain our project work. in the process of sending files from 
 our local machines to github files will go through three stages internally which are modified, staged,
-and commited. 
+and commited.  
